@@ -28,7 +28,7 @@ This project aims to make high-quality IELTS preparation accessible to everyone,
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Area           | Technology                                  |
 |----------------|---------------------------------------------|
@@ -41,9 +41,9 @@ This project aims to make high-quality IELTS preparation accessible to everyone,
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/congminh13/ielts-practice-app.git
 cd ielts-practice-app
