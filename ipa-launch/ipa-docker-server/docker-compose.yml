@@ -1,0 +1,13 @@
+services:
+  ipa-client:
+    container_name: ipa-client
+    restart: always
+    build:
+      context: ./client
+    networks:
+      - global_network
+
+networks:
+  global_network:
+    driver: bridge
+    external: true
