@@ -1,4 +1,4 @@
-# 🧠 IELTS Practice App
+# IELTS Practice App
 
 A free and open-source web application for IELTS learners to **practice Writing and Speaking tasks** with **AI-powered evaluation** — all in one place.
 
@@ -6,24 +6,24 @@ This project aims to make high-quality IELTS preparation accessible to everyone,
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📝 **Writing Tasks 1 & 2**
+- **Writing Tasks 1 & 2**
   - Practice with real IELTS questions
   - Upload or type your answer directly
   - AI evaluates your writing with feedback on **Task Response, Coherence, Vocabulary, Grammar**
 
-- 🎤 **Speaking Simulation**
+- **Speaking Simulation**
   - Record or type your answers for Speaking Parts 1–3
   - Receive instant band estimates and suggestions
 
-- 🤖 **AI Evaluation**
+- **AI Evaluation**
   - Uses LLM (OpenAI / local model) for realistic scoring and constructive feedback
 
-- 📊 **Progress Tracking**
+- **Progress Tracking**
   - See your performance trends over time (coming soon)
 
-- 💬 **Community Mode**
+- **Community Mode**
   - Share answers and compare feedback with others (planned)
 
 ---
