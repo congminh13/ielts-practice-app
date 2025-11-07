@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# 🧠 IELTS Practice App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A free and open-source web application for IELTS learners to **practice Writing and Speaking tasks** with **AI-powered evaluation** — all in one place.
 
-## Available Scripts
+This project aims to make high-quality IELTS preparation accessible to everyone, using modern web technologies and smart feedback features inspired by official IELTS band descriptors.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📝 **Writing Tasks 1 & 2**
+  - Practice with real IELTS questions
+  - Upload or type your answer directly
+  - AI evaluates your writing with feedback on **Task Response, Coherence, Vocabulary, Grammar**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🎤 **Speaking Simulation**
+  - Record or type your answers for Speaking Parts 1–3
+  - Receive instant band estimates and suggestions
 
-### `npm test`
+- 🤖 **AI Evaluation**
+  - Uses LLM (OpenAI / local model) for realistic scoring and constructive feedback
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 📊 **Progress Tracking**
+  - See your performance trends over time (coming soon)
 
-### `npm run build`
+- 💬 **Community Mode**
+  - Share answers and compare feedback with others (planned)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧩 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Area           | Technology                                  |
+|----------------|---------------------------------------------|
+| Frontend       | React (Create React App)                    |
+| Styling        | CSS / Tailwind (planned)                    |
+| Backend        | Node.js (Docker-based microservice planned) |
+| AI Integration | OpenAI API / Firecrawl for content crawling |
+| Database       | MongoDB (planned)                           |
+| Deployment     | Docker + Vercel / Render                    |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ Setup & Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/congminh13/ielts-practice-app.git
+cd ielts-practice-app
